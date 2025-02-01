@@ -9,4 +9,6 @@ Key visualizations include:
 - Geographic Distribution: Mapping regional variations to uncover global patterns.
 - Death Rate per 100K Population: Standardized metrics for better comparability.
 
+**Superstore Data**
 This project aims to highlight data-driven insights for policymakers, healthcare professionals, and researchers, helping to understand and address critical global health concerns.
+The Superstore dataset contains sales, profit, and geographic data for a retail business. It includes details on product categories, subcategories, and regional sales performance.
