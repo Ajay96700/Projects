@@ -17,7 +17,7 @@ The Superstore dataset contains sales, profit, and geographic data for a retail 
 **HR analytics Dashboard**
 This dashboard is designed to provide key insights into workforce trends, employee attrition, and satisfaction levels. This interactive dashboard helps HR teams to identify patterns, improve employee retention strategies, and optimize workforce planning.
 
-**Business Impact**
+-- **Business Impact**
  - Helps HR teams track and reduce employee turnover.
  - Identifies key workforce trends to optimize hiring and retention strategies.
  - Enhances employee engagement by addressing pain points highlighted through data-driven insights.
