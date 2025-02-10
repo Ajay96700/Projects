@@ -13,3 +13,11 @@ This project aims to highlight data-driven insights for policymakers, healthcare
 
 **Superstore Data**
 The Superstore dataset contains sales, profit, and geographic data for a retail business. It includes details on product categories, subcategories, and regional sales performance.
+
+**HR analytics Dashboard**
+The HR Analytics Tableau Dashboard is designed to provide key insights into workforce trends, employee attrition, and satisfaction levels. This interactive dashboard helps HR teams and decision-makers identify patterns, improve employee retention strategies, and optimize workforce planning.
+
+**Business Impact**
+ - Helps HR teams track and reduce employee turnover.
+ - Identifies key workforce trends to optimize hiring and retention strategies.
+ - Enhances employee engagement by addressing pain points highlighted through data-driven insights.
